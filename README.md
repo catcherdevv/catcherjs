@@ -12,8 +12,8 @@
  
 - 📫 How to reach me **hesapsemih1@gmail.com**
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyertia&theme=dracula" alt="catcherjs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcherjs&theme=dracula" alt="catcherjs" /></p>
  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lyertia&show_icons=true&theme=dracula&locale=en" alt="catcherjs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catcherjs&show_icons=true&theme=dracula&locale=en" alt="catcherjs" /></p>
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyertia&theme=dracula" alt="catcherjs" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=catcherjs&theme=dracula" alt="catcherjs" /></p>
