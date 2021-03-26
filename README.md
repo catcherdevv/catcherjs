@@ -1,4 +1,4 @@
-![Logo](https://placewaifu.com/image/200) 
+![Logo](https://cdn.discordapp.com/attachments/783380626627756042/824930417139646464/R0mvq8.png) 
 <h1 align="center">Hi 👋, I'm Catcher c:</h1>
 <h3 align="center">I'm a self taught JS developer.</h3>
  
