@@ -5,12 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=catcherjs&label=Profile%20views&color=0e75b6&style=flat" alt="catcherjs" /> </p>
  
  
-- 🔭 I’m currently working on [Catcher](Catcher#0001)
+- 🔭 I’m currently working on [Catcher](Catcher#1000)
  
 - 🌱 I’m currently learning **JS**
  
  
-- 📫 How to reach me **hesapsemih1@gmail.com**
+- 📫 How to reach me **Discord : Catcher#1000**
  	
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcherjs&theme=radical" alt="catcherjs" /></p>
  
