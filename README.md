@@ -12,7 +12,7 @@
  
 - 📫 How to reach me **Discord : Catcher#1000**
  	
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcherjs&theme=radical" alt="catcherjs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catcherjs&theme=dracula" alt="catcherjs" /></p>
  
 ![Catcherjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=catcherjs&show_icons=true&theme=radical)
  
